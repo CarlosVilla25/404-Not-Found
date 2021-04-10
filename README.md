@@ -8,11 +8,13 @@
 
 <div align="center">
   <h3>
-    <a href="https://carlosvilla25.github.io/404-Not-Found/">
+    <a href="https://carlosvilla25.github.io/404-Not-Found/" target="_blank">
       Demo 👀
     </a>
   </h3>
 </div>
+
+![image](https://user-images.githubusercontent.com/75287075/114255037-79970e00-9978-11eb-8df7-34e89f44c162.png)
 
 ### Built With
 
